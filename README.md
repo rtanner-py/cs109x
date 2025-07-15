@@ -17,4 +17,4 @@ url: https://learning.edx.org/course/course-v1:HarvardX+CS109x+3T2024/home
 9. Wrap-up
 
 ## Materials
-Main course text is "Introduction to Statistical Learning with Python". A copy is included within the 'materials' folder, but it can be downloaded from here: https://www.statlearning.com/[https://www.statlearning.com/] for both Python and R.
+Main course text is "Introduction to Statistical Learning with Python". A copy is included within the 'materials' folder, but it can be downloaded from here: [https://www.statlearning.com/] for both Python and R.
